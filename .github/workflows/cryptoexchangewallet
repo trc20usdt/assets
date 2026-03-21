@@ -1,0 +1,27 @@
+	globalgle-pro
+│
+├── index.html
+├── tools.html
+├── categories.html
+├── about.html
+├── contact.html
+│
+├── css
+│   ├── style.css
+│   └── responsive.css
+│
+├── js
+│   ├── app.js
+│   ├── tools.js
+│   └── search.js
+│
+├── assets
+│   ├── logo.png
+│   └── icons
+│
+└── tools
+    ├── password-generator.html
+    ├── word-counter.html
+    ├── bmi-calculator.html
+    ├── unit-converter.html
+    └── qr-generator.html
